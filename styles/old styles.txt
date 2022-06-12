@@ -1,0 +1,15 @@
+display: block;
+    position: relative;
+    max-width: 80%;
+    height: auto;
+    padding: 50px;
+    padding-left: 100px;
+    padding-right: 0px;
+
+
+    display: flex;
+    width: 50%;
+    height: auto;
+    border: solid red;
+    border-width: 10px;
+    align-items: center;
