@@ -21,7 +21,7 @@ img{
 }
 
 p{
-    margin: 0px;
+    margin-top: 2px;
 }
 
 
@@ -91,6 +91,20 @@ p{
     align-content: center;
     justify-content: center;
     box-sizing: border-box;
+}
+.paper{
+    margin: 50px;
+    background-color: lightgray;
+    padding: 50px;
+    width: 70%;
+    font-family: sans-serif;
+}
+
+.header{
+    font-weight: bold;
+    margin-bottom: 40px;
+    font-family: serif;
+    font-size: large;
 }
 
 .funeralDetails{
