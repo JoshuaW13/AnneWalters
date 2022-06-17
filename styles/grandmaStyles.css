@@ -93,14 +93,21 @@ p{
     box-sizing: border-box;
 }
 .paper{
+    background-color: lightgray;
+    font-family: sans-serif;
     margin: 50px;
+    
+}
+/*
+margin: 50px;
     background-color: lightgray;
     padding: 50px;
     width: 70%;
+    height: fit-content;
     font-family: sans-serif;
     word-wrap: break-word;
     overflow: auto;
-}
+*/
 
 .header{
     font-weight: bold;
