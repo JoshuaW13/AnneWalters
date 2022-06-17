@@ -98,7 +98,7 @@ p{
     margin: 50px;
     padding: 50px;
     width: 70%;
-    height: auto;
+    height: fit-content;
     word-wrap: break-word;
     overflow: auto;
     
