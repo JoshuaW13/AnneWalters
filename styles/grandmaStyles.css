@@ -89,6 +89,7 @@ p{
     flex: 7 1 0;
     align-content: center;
     justify-content: center;
+    height: auto;
     
 }
 .paper{
@@ -98,6 +99,7 @@ p{
     padding: 50px;
     width: 70%;
     height: auto;
+    word-wrap: break-word;
     
 }
 /*
