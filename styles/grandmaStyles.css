@@ -100,6 +100,7 @@ p{
     width: 70%;
     height: auto;
     word-wrap: break-word;
+    overflow: auto;
     
 }
 /*
