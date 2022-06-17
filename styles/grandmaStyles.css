@@ -99,6 +99,7 @@ p{
     width: 70%;
     font-family: sans-serif;
     word-wrap: break-word;
+    overflow: auto;
 }
 
 .header{
