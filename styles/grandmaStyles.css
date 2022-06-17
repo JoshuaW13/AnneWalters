@@ -90,6 +90,7 @@ p{
     align-content: center;
     justify-content: center;
     height: auto;
+    height: fit-content;
     
 }
 .paper{
@@ -98,6 +99,7 @@ p{
     margin: 50px;
     padding: 50px;
     width: 70%;
+    justify-content: center;
     height: fit-content;
     word-wrap: break-word;
     overflow: auto;
