@@ -146,7 +146,6 @@ margin: 50px;
     background-color: lightblue;
     padding: 30px;
     flex: 1 1 0;
-    box-sizing: border-box;
     justify-content: center;
     font-family: sans-serif;
     text-align: center;
