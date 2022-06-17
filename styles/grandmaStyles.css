@@ -119,6 +119,16 @@ p{
     margin: 10px;
 }
 
+.donation{
+    font-weight: bold;
+    border-top: solid grey;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}
+
 .bottom{
     background-color: lightblue;
     padding: 30px;
@@ -127,5 +137,6 @@ p{
     justify-content: center;
     font-family: sans-serif;
     text-align: center;
+    font-weight: bold;
 }
 
