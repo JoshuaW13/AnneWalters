@@ -103,7 +103,14 @@ p{
     height: fit-content;
     word-wrap: break-word;
     overflow: auto;
+    justify-items: center;
     
+}
+.obituaryImage{
+    display: block;
+    margin-left: 50%;
+    margin-right: 50%;
+    width: 50%;
 }
 /*
 margin: 50px;
